@@ -1,8 +1,22 @@
  # Bem-vindo ao nosso AppMobile👋
 
-Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Para começar
+
+## Créditos
+
+* [Batista Lando](https://www.instagram.com/batistalando7/) - o cara na "`back`"
+* [Beny Reis](https://www.instagram.com/bkapa8/) - o wi da beleza
+* [Expo](https://expo.dev)  - a [***Build Tool***](https://www.npmjs.com/package/create-expo-app) usada.
+* [MHRap](https://www.youtube.com/@MHRAPOFICIAL/videos) - suas [músicas](https://www.youtube.com/watch?v=O6zyeg5is1A) ouvidas no ambiente de trabalho.
+
+---
+
+* Veja [agora](#), se quiser
+* Ou [Baixe](https://github.com/batistalando7/AppMobile/archive/refs/heads/main.zip)
+
+
+
+## Para começar - Explicação técnica
 
 1. Instale as dependências
 
@@ -35,9 +49,5 @@ npm run reset-project
 
 Esse comando moverá o código inicial para o diretório **app-example** e criará um diretório **app** em branco para que você possa começar a desenvolver.
 
-## Find Us
-
-[Batista Lando](https://www.instagram.com/batistalando7/) - o cara na "`back`"
-[Beny Reis](https://www.instagram.com/bkapa8/) - o wi da beleza
 
 
